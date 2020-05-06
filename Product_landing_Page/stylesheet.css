@@ -1,0 +1,7 @@
+body {
+  background-color: rgb(187, 194, 203);
+}
+#header-img {
+  width: 100%;
+  z-index: 0;
+}
